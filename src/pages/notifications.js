@@ -446,7 +446,6 @@ export default function Notificatoins() {
                       <div class="tab-content">
                       <div class="tab-header d-flex justify-content-between ">
                       <h4>Notifications</h4>
-                      <h4>Notifications</h4>
                    
                   
                         </div>               
